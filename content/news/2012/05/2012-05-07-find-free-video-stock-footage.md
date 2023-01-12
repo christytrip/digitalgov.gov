@@ -66,5 +66,6 @@ Use images that illustrate a point or an emotion.
   * [Creative Commons Search Page](http://search.creativecommons.org/)—Choose from a variety of sites
   * [Flickr Creative Commons](http://www.flickr.com/creativecommons/)
   * [www.sxc.hu](http://www.sxc.hu/)—Free stock images
+  * [Free Creative Commons Travel Photos](https://ordinarytraveler.com/free-creative-commons-travel-photos)
 
 ##
